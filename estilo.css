@@ -114,6 +114,7 @@ nav {
 h1 {
     font-family: 'Milks';
     color: white;
+    margin-left: 20px;
 }
 nav a {
     color: white;
@@ -988,7 +989,6 @@ form {
 }
 .container-sobre h1 {
     margin-bottom: 20px;
-    margin-left: 10px;
     font-size: 40px;
     color: #C67314;
 }
@@ -2469,6 +2469,9 @@ form {
 }
 }
 @media (max-width: 500px) {
+    h1 {
+    margin-left: 5px;
+    }
     .alfa-slab-one-regular {
         font-weight: 400;
     }
@@ -4059,4 +4062,5 @@ form {
 
 }
 }}
+
 
